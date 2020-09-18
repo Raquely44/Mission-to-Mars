@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#class work
+Practice.ipynb
+
 # C extensions
 *.so
 
